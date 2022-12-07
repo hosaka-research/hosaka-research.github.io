@@ -18,6 +18,7 @@ FPGA等を含む装置の組み込み向けの開発を行っています。Veri
 ### [tangnano9k-spectrogram](https://github.com/hosaka-research/tangnano9k-spectrogram)プロジェクト
 音声をフーリエ変換して得たスペクトログラムをLCDパネルにリアルタイムに横スクロール表示します。
 GOWIN 社製 FPGA の評価ボード Tang Nano 9K 上で動作するコードを Verilog で開発しています。
+本開発成果はMITライセンスで公開しています。
 
 ## 会社概要
 * 代表社員 保坂 肇
