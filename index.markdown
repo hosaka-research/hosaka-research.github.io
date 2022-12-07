@@ -16,7 +16,8 @@ FPGA等を含む装置の組み込み向けの開発を行っています。Veri
 
 ## 業務内容：オープンソース開発
 ### [tangnano9k-spectrogram](https://github.com/hosaka-research/tangnano9k-spectrogram)プロジェクト
-音声をフーリエ変換して得たスペクトログラムをLCDパネルにリアルタイムに横スクロール表示します。
+音声をフーリエ変換して得たスクトログラムをLCDパネルにリアルタイムに横スクロール表示する
+簡易型測定器の開発プロジェクトです。
 GOWIN 社製 FPGA の評価ボード Tang Nano 9K 上で動作するコードを Verilog で開発しています。
 本開発成果はMITライセンスで公開しています。
 
